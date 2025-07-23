@@ -1,5 +1,5 @@
 apiVersion: v2
-name: glick2000/kobi
+name: kobi
 description: A Helm chart for Kubernetes
 type: application
 version: 1.0.0
