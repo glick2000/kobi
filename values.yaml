@@ -1,5 +1,0 @@
-deployment:
-  - name: blue
-    replicas: 1
-    color: blue
-    weight: 5
