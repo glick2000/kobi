@@ -9,9 +9,9 @@ deployment:
     color: blue
     weight: 5
 
-  - name: red
+  - name: purple
     replicas: 1
-    color: red
+    color: purple
     weight: 5
 
  
