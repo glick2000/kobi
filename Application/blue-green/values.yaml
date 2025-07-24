@@ -1,16 +1,17 @@
 deployment:
-
-   - name: yellow
+  - name: green
     replicas: 1
-    color: yellow
+    color: green
+    weight: 5
+    
+  - name: blue
+    replicas: 1
+    color: blue
     weight: 5
 
-  - name: orenge
+  - name: red
     replicas: 1
-    color: orenge
+    color: red
     weight: 5
 
-  - name: perple
-    replicas: 1
-    color: perple
-    weight: 5  
+ 
